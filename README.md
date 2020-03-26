@@ -16,8 +16,13 @@
 
 - CARTPOLE USING CNN DQN
 
-Results/Q-Learning.gif
 
-Results/ezgif.com-crop.gif
 
-Results/ezgif.com-optimize.gif
+https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/ezgif.com-optimize.gif
+
+
+https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/Q-Learning.gif
+
+
+
+https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/ezgif.com-crop.gif
