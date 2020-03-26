@@ -22,11 +22,11 @@
 
 
 
-https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/Q-Learning.gif
+  https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/Q-Learning.gif
 
 
 
 
 
-https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/ezgif.com-crop.gif
+  https://raw.githubusercontent.com/aadhithya14/RLprojects/master/Results/ezgif.com-crop.gif
 
