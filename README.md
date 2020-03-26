@@ -16,5 +16,4 @@
 
 - CARTPOLE USING CNN DQN
 
-
-
+https://media.giphy.com/media/hrASD7fUuS5MO3bYuw/giphy.gif
