@@ -18,11 +18,11 @@
 
    
 
-  **RESULTS*** 
+ **RESULTS*** 
 
   
 
-  POLICY ITERATION AND VALUE ITERATION 
+       POLICY ITERATION AND VALUE ITERATION 
 
   
 
@@ -30,7 +30,7 @@
 
 ​		
 
-​       QLEARNING          
+​      QLEARNING          
 
 ​           			
 
