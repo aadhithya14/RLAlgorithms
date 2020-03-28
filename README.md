@@ -30,7 +30,7 @@
 
 ​		
 
-​      QLEARNING          
+​           QLEARNING          
 
 ​           			
 
@@ -38,7 +38,7 @@
 
 
 
-​      DEEP- QLEARNING :-CARTPOLE 
+​           DEEP- QLEARNING :-CARTPOLE 
 
 
 
