@@ -35,7 +35,7 @@
 
 ​		
 
-​       Q-LEARNING          
+​ Q-LEARNING          
 
 ​           			
 
@@ -43,7 +43,7 @@
 
 
 
-​      TRAINED-CARTPOLE (DQN,REINFORCE,ACTOR-CRITIC)
+​ TRAINED-CARTPOLE (DQN,REINFORCE,ACTOR-CRITIC)
 
 
 
