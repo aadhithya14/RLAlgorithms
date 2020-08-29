@@ -4,9 +4,10 @@ This algorithm  is the vanilla policy gradient algorithm which uses the policy g
 
 This algorithm is applied on the **"CartPole"** gym environment .
 
-### Results:-
 
- ![result.png](https://github.com/aadhithya14/RLprojects/blob/master/POLICY%20GRADIENTS/REINFORCE/Results/result.png?raw=true)
+
+
+
 
 
 
