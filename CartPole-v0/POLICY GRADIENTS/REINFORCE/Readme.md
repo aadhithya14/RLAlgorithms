@@ -4,7 +4,7 @@ This algorithm  is the vanilla policy gradient algorithm which uses the policy g
 
 This algorithm is applied on the **"CartPole"** gym environment .
 
-### Results:-
+
 
 
 
