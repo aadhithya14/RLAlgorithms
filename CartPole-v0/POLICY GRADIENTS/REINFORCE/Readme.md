@@ -6,8 +6,7 @@ This algorithm is applied on the **"CartPole"** gym environment .
 
 ### Results:-
 
- ![result.png](https://github.com/aadhithya14/RLprojects/blob/master/POLICY%20GRADIENTS/REINFORCE/Results/result.png?raw=true)
-
+ https://raw.githubusercontent.com/aadhithya14/RLprojects/master/CartPole-v0/POLICY%20GRADIENTS/REINFORCE/Results/result.png
 
 
 
