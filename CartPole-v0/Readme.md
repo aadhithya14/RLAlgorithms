@@ -10,9 +10,10 @@ I have implemented the following algorithms on the environment  and the results 
 
 ![alt text](https://github.com/aadhithya14/RLprojects/blob/master/CartPole-v0/DQN/Results/result.png)
 
+
 ### REINFORCE 
 
-![alt text](https://github.com/aadhithya14/RLprojects/blob/master/CartPole-v0/POLICY%20GRADIENTS/REINFORCE/Results/result.png
+![alt text](https://github.com/aadhithya14/RLprojects/blob/master/CartPole-v0/POLICY GRADIENTS/REINFORCE/Results/result.png)
 
 
 ### ADVANTAGE-ACTOR-CRITIC
