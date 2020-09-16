@@ -18,7 +18,7 @@
 
 - [X] REINFORCE
 
-- [X] ACTOR-CRITIC
+- [X] ADVANTAGE ACTOR-CRITIC
 
 
    
