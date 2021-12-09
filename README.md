@@ -23,15 +23,10 @@
 
    
 
-  **RESULTS*** 
 
   
 
-  POLICY ITERATION AND VALUE ITERATION 
-
   
-
-  ![ezgif.com-optimize.gif](https://github.com/aadhithya14/RLprojects/blob/master/Results/ezgif.com-optimize.gif?raw=true)
 
 		
 
