@@ -21,5 +21,8 @@ I have attached my hackmd notes of this topic below. It has the intuitions to al
 
 
 
+POLICY ITERATION AND VALUE ITERATION 
 
+  
+![ezgif.com-optimize.gif](https://github.com/aadhithya14/RLprojects/blob/master/Results/ezgif.com-optimize.gif?raw=true)
 
